@@ -43,8 +43,7 @@ screen sizes to provide a consistent user experience
 across devices.
 
 ## Prototype
-The Figma prototype demonstrates navigation
-between the main portfolio screens.
+Figma Prototype:https://www.figma.com/design/5dHaC69oD3niUec6WSk3DV/Chandu-Priya---Data-Analyst-Portfolio?node-id=10-135&t=voGQw0WMDhj2HyTS-1
 
 ## Project Deliverables
 -Research
