@@ -1,4 +1,4 @@
-# Chandu Priya - Data Analyst Portfolio
+# Chandu Priya - Personal Portfolio App UI Design
 
 ## Project Overview
 A modern and responsive Personal Portfolio 
